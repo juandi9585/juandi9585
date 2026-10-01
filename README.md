@@ -48,17 +48,11 @@ Most of that work is under client confidentiality, so its code is private. This 
   <img src="assets/trajectory-dark.svg" width="100%" alt="Trajectory. Now: AI Developer at PadTech Solution, contractor at Banesco, since 09/2025. Automation Architect Intern at the Ministry of Natural Resources and Environment of Honduras, 03–05/2025. Full-Stack Specialist Architect at Inversiones Galiang, contractor at Banesco, 01–09/2025. Developer Intern at Banesco, 2024. Teaching Assistant in Introductory Mathematics at Universidad Metropolitana, 09/2023–07/2024. Data Modeling and Integration Intern at Banesco, 04–08/2023.">
 </picture>
 
-<details>
-<summary><b>Education, certifications and languages</b></summary>
-
-- **Master in Artificial Intelligence**, CEUPE European Business School, Madrid (2026–2027, in progress)
-- **Systems Engineering**, Universidad Metropolitana de Caracas (2020–2024): academic index 17/20, full academic-excellence scholarship, honorable mention for the final degree project
-- **Minor in Software Development**, Universidad Metropolitana de Caracas (2024)
-- Deep Learning Specialization, DeepLearning.AI (2024) · Generative AI & Vertex AI: Prompt Design, Google Cloud Skills · Generative AI Professional (GAIPC), Certiprof · ISO 27001 Information Security, Seguridad Cero (2024)
-- Spanish (native) · English (full professional, IELTS 7.5/9) · Japanese (basic, JLPT N4)
-- Off the screen: 2nd Dan black belt in competitive karate, and violin at an advanced level
-
-</details>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/credentials-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/credentials-light.svg">
+  <img src="assets/credentials-dark.svg" width="100%" alt="Education and recognition. Education: Master in Artificial Intelligence, CEUPE European Business School, Madrid, Spain, 2026–2027, in progress. Systems Engineering, Universidad Metropolitana de Caracas, 2020–2024: academic index 17/20, full academic-excellence scholarship, honorable mention for the final degree project. Minor in Software Development, Universidad Metropolitana de Caracas, 2024. Certifications: Deep Learning Specialization, DeepLearning.AI and Andrew Ng, 2024; Generative AI and Vertex AI: Prompt Design, Google Cloud Skills; Generative AI Professional (GAIPC), Certiprof; ISO 27001 Information Security, Seguridad Cero, 2024. Languages: Spanish, native; English, full professional, IELTS 7.5/9; Japanese, basic, JLPT N4. Beyond the screen: 2nd Dan black belt in competitive karate, violin at an advanced level, and the Lista del Rector academic-excellence recognition.">
+</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juandi9585/juandi9585/output/snake-dark.svg">
