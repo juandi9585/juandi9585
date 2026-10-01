@@ -10,7 +10,7 @@ text{font-family:'JD Saira', system-ui, sans-serif;fill:#eceef3;}
 .ds{font-size:24px;font-weight:400;fill:#c3c8d4;}
 .ft{font-size:22px;font-weight:500;fill:#c3c8d4;}.lamp{transform-box:fill-box;transform-origin:center}.go .lamp{animation:flick .45s steps(1) both,pulse 2.4s ease-in-out infinite}
 @keyframes flick{0%{opacity:0}30%{opacity:1}45%{opacity:.2}60%{opacity:1}}
-@keyframes pulse{50%{transform:scale(.72);opacity:.55}}.go .rd{animation:on .5s steps(3) both}@keyframes on{from{opacity:0}}.go .pr{animation:prx .7s steps(16) both}@keyframes prx{from{clip-path:inset(0 100% 0 0)}}.go .fr{animation:frd 1.1s cubic-bezier(.4,0,.2,1) both}@keyframes frd{from{stroke-dashoffset:1}}.tk{transform-box:fill-box;transform-origin:0 0}.go .tk{animation:tkp .5s steps(8) .4s both}@keyframes tkp{from{transform:scaleX(0)}}.vr{transform-box:fill-box;transform-origin:0 0}.go .vr{animation:vrp .8s steps(20) .3s both}@keyframes vrp{from{transform:scaleY(0)}}
+@keyframes pulse{50%{transform:scale(.72);opacity:.55}}.go .rd{animation:on .5s steps(3) both}@keyframes on{from{opacity:0}}.go .pr{animation:on .6s steps(4) both}.go .fr{animation:frd 1.1s cubic-bezier(.4,0,.2,1) both}@keyframes frd{from{stroke-dashoffset:1}}.tk{transform-box:fill-box;transform-origin:0 0}.go .tk{animation:tkp .5s steps(8) .4s both}@keyframes tkp{from{transform:scaleX(0)}}.vr{transform-box:fill-box;transform-origin:0 0}.go .vr{animation:vrp .8s steps(20) .3s both}@keyframes vrp{from{transform:scaleY(0)}}
 @media (prefers-reduced-motion: reduce){*:not(.hold){animation:none!important;}.hold{animation-play-state:paused!important;}}
 </style>
 <g class="jd"><set attributeName="class" to="jd go" begin="0.05s" fill="freeze"/>
